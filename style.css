@@ -5,3 +5,23 @@ body {
 	font: 18px sans-serif;
 }
 
+.form-policko, .form-zaskrtavaci-policko {
+	margin-bottom: 15px;
+}
+
+.form-policko label {
+	display: block;
+	color: gray;
+	font-size: 70%;
+}
+.form-zaskrtavaci-policko label {
+	color: gray;
+	font-size: 70%;
+}
+
+.form-policko input {
+	border: 2px solid blue;
+	padding: 6px;
+	border-radius: 4px;
+	background-color: aqua;
+}
